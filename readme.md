@@ -1,4 +1,4 @@
-Name: Lo Sze Yuen <br/>
-Student Id: 20619883 <br/>
+Name: <br/>
+Student Id:  <br/>
 
 ![Git History](git-history.png)
